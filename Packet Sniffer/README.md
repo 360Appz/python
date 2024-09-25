@@ -7,3 +7,7 @@ This packet sniffer uses the Scapy library to replicate, simulate, and manipulat
 ## Library
 - Scapy
 - Matplotlib
+
+## Images
+![alt text](https://github.com/360Appz/Project-Images/blob/main/Python/Packet-Sniffer/Capture.PNG)
+![alt text](https://github.com/360Appz/Project-Images/blob/main/Python/Packet-Sniffer/2.PNG)
